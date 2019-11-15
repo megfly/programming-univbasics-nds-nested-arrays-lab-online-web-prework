@@ -21,7 +21,7 @@ def assembled_matrix
   # and the Enfield Tennis Academy as provided by the constants
   
   def assembled_matrix 
-    [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+    house_and_tennis_academy = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
   
 end
 
