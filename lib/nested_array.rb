@@ -25,6 +25,7 @@ def assembled_matrix
     ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
   ]
   
+  assembled_matrix
 end
 
 def array_literal_matrix
